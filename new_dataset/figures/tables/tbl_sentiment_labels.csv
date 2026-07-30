@@ -1,0 +1,6 @@
+label,n,mean,median
+negative,59,-3.7158,-2.0697
+neutral,285,0.8352,0.2157
+positive,183,2.3167,2.0936
+hit_rate_nonneutral,242,0.7893,
+pearson_10m,527,0.3302,

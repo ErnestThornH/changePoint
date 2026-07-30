@@ -1,0 +1,7 @@
+kpi,spearman_r,spearman_p,n
+price_delta_pct_5m,0.4522,< 0.001,527
+price_delta_pct_10m,0.4418,< 0.001,527
+price_delta_pct_15m,0.4369,< 0.001,525
+price_delta_pct_30m,0.4249,< 0.001,523
+price_delta_pct_60m,0.4291,< 0.001,517
+sofort_delta_pct,0.4522,< 0.001,527

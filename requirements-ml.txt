@@ -1,0 +1,11 @@
+# Heavy ML deps for model training and the dashboard's live-analysis tab.
+# Install into the same venv when running new_dataset.pipeline.train
+# or the dashboard's live-analysis functions:
+#   pip install -r requirements-ml.txt
+torch
+transformers
+py3langid
+sentencepiece
+safetensors
+scikit-learn
+joblib

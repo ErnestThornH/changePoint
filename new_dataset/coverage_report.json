@@ -1,0 +1,12 @@
+{
+  "records": 527,
+  "failed_fetch": 0,
+  "functioning": {
+    "5": 527,
+    "10": 527,
+    "15": 525,
+    "30": 523,
+    "60": 517
+  },
+  "dataset_functioning_flag": 527
+}

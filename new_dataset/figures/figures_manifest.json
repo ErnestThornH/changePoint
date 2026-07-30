@@ -1,0 +1,86 @@
+[
+  {
+    "id": "f01_meldungen_zeit",
+    "file": "f01_meldungen_zeit.png",
+    "caption_de": "Anzahl der Ad-hoc-Meldungen pro Monat.",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f02_boerse_verteilung",
+    "file": "f02_boerse_verteilung.png",
+    "caption_de": "Verteilung der Meldungen nach Börsenplatz (Ticker-Suffix).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f03_textlaenge",
+    "file": "f03_textlaenge.png",
+    "caption_de": "Verteilung der Textlänge des bereinigten Meldungstexts (Titel + Volltext) in Zeichen.",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f06_hist_price",
+    "file": "f06_hist_price.png",
+    "caption_de": "Verteilung der Kursänderung 10 Minuten nach der Meldung (Anzeige auf ±30 % begrenzt).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f07_ecdf_price",
+    "file": "f07_ecdf_price.png",
+    "caption_de": "Kumulierte Verteilung des Betrags der Kursänderung 10 Minuten nach der Meldung.",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f08_price_horizon",
+    "file": "f08_price_horizon.png",
+    "caption_de": "Median und Interquartilsbereich der Kursänderung je Zeithorizont (5 bis 60 Minuten).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f09_hist_volume",
+    "file": "f09_hist_volume.png",
+    "caption_de": "Verteilung der 10-Minuten-Volumenänderung (logarithmische Skala) mit markiertem Median.",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f10_ecdf_volume",
+    "file": "f10_ecdf_volume.png",
+    "caption_de": "Kumulierte Verteilung der Volumenänderung 10 Minuten nach der Meldung.",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f11_volume_by_class",
+    "file": "f11_volume_by_class.png",
+    "caption_de": "Volumenänderung (10 Min) gruppiert nach Reaktionsklasse (Auf/Ab/Flat).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f12_price_vs_volume",
+    "file": "f12_price_vs_volume.png",
+    "caption_de": "Streudiagramme Kurs-Δ vs. Volumen-Δ je Horizont (5/10/15/30/60 Minuten) mit Spearman-Korrelation.",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f05_class_balance",
+    "file": "f05_class_balance.png",
+    "caption_de": "Klassenverteilung der Kursreaktion (Auf/Ab/Flat).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f04_vola_pre_post",
+    "file": "f04_vola_pre_post.png",
+    "caption_de": "Volatilität der 5-Minuten-Schlusskurse (Variationskoeffizient, in Prozent) in der Stunde vor und nach der Meldung (Boxplot).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f14_corr_heatmap",
+    "file": "f14_corr_heatmap.png",
+    "caption_de": "Spearman-Korrelationen zwischen den Kennzahlen (Kurs, Volumen, Volatilität).",
+    "source": "Eigene Darstellung"
+  },
+  {
+    "id": "f15_model_macro_f1",
+    "file": "f15_model_macro_f1.png",
+    "caption_de": "Test-Macro-F1 je Modell im Vergleich; die horizontale Linie markiert die Mehrheitsklassen-Baseline (Macro-F1).",
+    "source": "Eigene Darstellung"
+  }
+]

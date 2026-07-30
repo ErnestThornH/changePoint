@@ -1,0 +1,10 @@
+{
+  "base_model": "scherrmann/GermanFinBERT_SC_Sentiment",
+  "labels": [
+    "down",
+    "flat",
+    "up"
+  ],
+  "n_train": 527,
+  "generated_on": "2026-07-06T21:21:49"
+}

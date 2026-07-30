@@ -1,0 +1,6 @@
+model,cv_macro_f1_mean,cv_macro_f1_std,test_macro_f1,test_accuracy,majority_baseline
+majority,0.2451,0.0,0.2473,0.5897,0.5897
+logreg_embed,0.4922,0.0032,0.4821,0.5897,0.5897
+rf_embed,0.4648,0.0214,0.3765,0.5897,0.5897
+pretrained_sentiment,0.3832,0.0,0.3506,0.4359,0.5897
+finetuned_finbert,0.4167,0.0176,0.4785,0.5897,0.5897

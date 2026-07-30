@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+apikey_free.txt
+.DS_Store

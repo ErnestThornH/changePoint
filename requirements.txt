@@ -1,0 +1,27 @@
+# Ad-hoc news → intraday reaction pipeline
+# Python 3.11 required
+
+# === Core Data Processing ===
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# === RSS Feed & Web Crawling ===
+feedparser>=6.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# === Plotting ===
+matplotlib>=3.8.0
+
+# === Dashboard (Gradio-UI; Live-ML-Funktionen brauchen zusätzlich requirements-ml.txt) ===
+gradio>=5.0.0
+
+# === Jupyter / Notebooks ===
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# === Testing ===
+pytest>=7.4.0
+pytest-cov>=4.1.0

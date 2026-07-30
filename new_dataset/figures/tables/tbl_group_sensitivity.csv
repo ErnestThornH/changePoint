@@ -1,0 +1,8 @@
+kennzahl,wert
+group_cv_macro_f1_mean,0.4621
+group_cv_macro_f1_std,0.0334
+group_cv_fold_scores,0.4710;0.4581;0.4097;0.5143;0.4574
+holdout_ticker_overlap_pct,80.7692
+cross_session_10m_n,53
+cross_session_10m_total,527
+cross_session_10m_pct,10.0569
